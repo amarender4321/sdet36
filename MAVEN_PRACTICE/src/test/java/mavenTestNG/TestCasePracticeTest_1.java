@@ -15,5 +15,10 @@ public class TestCasePracticeTest_1 {
 	public void test3() {
 		System.out.println("Test Case 3");
 	}
+	
 
+	@Test
+	public void test4() {
+		System.out.println("Test Case 4");
+	}
 }
