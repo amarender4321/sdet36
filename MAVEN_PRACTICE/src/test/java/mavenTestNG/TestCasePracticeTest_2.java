@@ -19,5 +19,9 @@ public class TestCasePracticeTest_2 {
 	public void mavenTest6() {
 		System.out.println("maven Test 6");
 	}
+	@Test
+	public void mavenTest7() {
+		System.out.println("maven Test 7");
+	}
 
 }
