@@ -20,4 +20,13 @@ public class TestCasePracticeTest_1 {
 	public void test4() {
 		System.out.println("Test Case -- 4");
 	}
+		@Test(priority = 2)
+	public void test5() {
+		System.out.println("Test Case A");
+	}
+
+	@Test
+	public void test6() {
+		System.out.println("Test Case -- B");
+	}
 }
